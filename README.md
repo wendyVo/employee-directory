@@ -42,16 +42,13 @@ npm start
 
 ## Link to Deployed Applicaion:
 
-[DemoLink]()
+[DemoLink](https://wendyvo.github.io/employee-directory/)
 
 ## Screenshots:
 - Employee Directory
 <br/>
 
 ![main-page](/assets/emp-main.PNG)
-
-
-<br/>
 
 - You can filter the employee by search their name in the search form
 
@@ -68,6 +65,7 @@ npm start
 ![sort-name](/assets/sortName.PNG)
 
 <br/>
+
 - Table responsive
 
 <br/>
